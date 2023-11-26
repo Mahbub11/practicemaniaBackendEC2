@@ -102,10 +102,10 @@ WSGI_APPLICATION = 'dethome.wsgi.application'
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.postgresql',
-        'NAME': 'practicemania',
-        'USER': 'postgres',
-        'PASSWORD': '123456',
-        'HOST': 'localhost',
+        'NAME': 'backend',
+        'USER': 'mysuperuser',
+        'PASSWORD': 'mysuperuser',
+        'HOST': 'backend.caarkqfzsapu.us-east-1.rds.amazonaws.com',
         'PORT': '5432',
     }
 }
