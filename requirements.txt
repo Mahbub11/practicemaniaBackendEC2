@@ -20,7 +20,7 @@ jsonschema-specifications
 keyring==23.13.1
 lockfile==0.12.2
 more-itertools
-msgpack==1.0.7
+msgpack
 packaging==23.2
 pexpect==4.8.0
 pkginfo==1.9.6
