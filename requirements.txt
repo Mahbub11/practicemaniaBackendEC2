@@ -10,7 +10,7 @@ Django
 django-cors-headers
 djangorestframework
 dulwich
-filelock==3.12.4
+filelock
 html5lib==1.1
 idna==3.4
 importlib-metadata
