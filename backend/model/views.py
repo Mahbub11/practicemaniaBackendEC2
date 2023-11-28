@@ -5,18 +5,12 @@ from rest_framework.decorators import api_view
 from typing import Union
 from gramformer import Gramformer
 import re
-import torch
 import warnings
 from collections import defaultdict
 
 
 
-def set_seed(seed):
-  torch.manual_seed(seed)
-  if torch.cuda.is_available():
-    torch.cuda.manual_seed_all(seed)
 
-set_seed(1212)
 
 # ResultsType = dict[str, Union[str, list[Match]]]
 
