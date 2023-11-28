@@ -43,7 +43,7 @@ sqlparse==0.4.4
 tomli==2.0.1
 tomlkit==0.12.1
 trove-classifiers==2023.9.19
-typing_extensions==4.8.0
+typing_extensions
 tzdata==2023.3
 urllib3==1.26.17
 virtualenv==20.21.1
