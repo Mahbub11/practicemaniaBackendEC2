@@ -14,7 +14,7 @@ filelock
 html5lib==1.1
 idna==3.4
 importlib-metadata
-jaraco.classes==3.3.0
+jaraco.classes
 jsonschema
 jsonschema-specifications==2023.7.1
 keyring==23.13.1
