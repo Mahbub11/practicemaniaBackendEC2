@@ -19,7 +19,7 @@ jsonschema
 jsonschema-specifications
 keyring==23.13.1
 lockfile==0.12.2
-more-itertools==10.1.0
+more-itertools
 msgpack==1.0.7
 packaging==23.2
 pexpect==4.8.0
